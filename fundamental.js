@@ -44,8 +44,8 @@ console.log(firstResult);
 //3 ways to access property by name
  const student={
      name: 'rahim',
-     id=18,
-     age=35,
+     id:18,
+     age:35,
      movies:['king khan', 'dhaka alu',' actor']
  }
 
